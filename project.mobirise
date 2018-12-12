@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "site",
     "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
@@ -37,7 +37,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 40,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
